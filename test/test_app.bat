@@ -1,5 +1,6 @@
-###test_app.bat - 2020 - Fougere###
-version = "1.2.1"
+### application.bat - 2020 - Fougere ###
+version = "2.0.0"
+>>>>>>> dev
 build_hour = "11H00"
 
 echo "Build ${build_hour}"
