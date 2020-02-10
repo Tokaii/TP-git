@@ -1,4 +1,4 @@
-echo "version 1.1.0"
+echo "version 1.2.0"
 "Copyright company - 2020"
 echo "build - 10:00"
 
